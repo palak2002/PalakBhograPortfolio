@@ -1,0 +1,86 @@
+{
+    "about": [
+        {
+            "tech": ["C++","Python", "Java", "AWS CLoud, DynamoDB, ", "HTML5 & CSS3", "Tailwind CSS", "Bootstrap", "JavaScript", "CI/CD", "React JS", "MongoDB", "NoSQL", "MySQL","Git", "Github","Figma", "Node Js"]
+        }
+    ],
+    "experience": [
+        {
+            "id": 1,
+            "company": "Amazon",
+            "linkCompany": "https://www.amazon.in/",
+            "position": "Software Dev Engineer",
+            "startDate": "07-13-2022",
+            "endDate": "12-11-2023",
+            "tech": [],
+            "jobDesc": ["Enhanced payment automation (backend), streamlined partner onboarding, and optimized invoice generation, significantly improving system efficiency by 25%.", "Utilized AWS Lambda, AWS, GraphQL, Amazon DynamoDB, REST APIs, Linux, Java, Spring-boot and email template creation tools. Developed HTML/CSS-based email templates, integrated Amazon SES and Amazon Cloud functions"]
+        },
+        {
+            "id": 2,
+            "company": "Arufa Research",
+            "linkCompany": "https://r.search.yahoo.com/_ylt=Awrx_WlAC6ll0EIM3vK7HAx.;_ylu=Y29sbwNzZzMEcG9zAzMEdnRpZAMEc2VjA3Ny/RV=2/RE=1705606081/RO=10/RU=https%3a%2f%2ftwitter.com%2fArufaResearch/RK=2/RS=9fE0HJsJuE28u5h914f_hQ8XmoU-",
+            "position": "Software Engineer",
+            "startDate": "02-01-2023",
+            "endDate": "07-30-2023",
+            "tech": [],
+            "jobDesc": ["Key contributor to SecretSwap project, a decentralized exchange (DEX), leveraging ReactJS for intuitive UI development.","Integrated and managed smart contracts for token transactions in DeFi. Assisted backend development using NodeJs and MongoDB for secure cryptocurrency transactions"]
+        },
+        {
+            "id": 3,
+            "company": "ConnectBud",
+            "linkCompany": "https://www.connectbud.com/",
+            "position": "Coding Tutor",
+            "startDate": "12-01-2018",
+            "endDate": "Present",
+            "tech": [],
+            "jobDesc": ["Teaching core full stack technologies React JS, JavaScript, SQL, Node js, Jira, MongoDB database to foster development skills."]
+        }
+    ],
+    "project": [
+        {
+            "title": "Pixar Remake",
+            "imgUrl": "./img/project/pixar.png",
+            "tech": ["ReactJs", "TypeScript", "SASS"],
+            "description": "The Pixar Website Remake is recreation of the iconic Pixar website, aiming to capture the essence of the original while offering an interactive experience.",
+            "linkGithub": "https://github.com/palak2002/sample-pixar-website",
+            "linkWebsite": "https://pixarclone.netlify.app/"
+        },
+        {
+            "title": "Bumia Store",
+            "imgUrl": "./img/project/bumia.png",
+            "tech": ["React","JavaScript","Nextjs","Sanity","Stripe"],
+            "description": "Our store is designed to provide a convinient shopping experience for our customers, with easy-to-use interfaces, secure payment options, and fast delivery of reputable products.",
+            "linkGithub": "https://github.com/palak2002/store-bumia-main",
+            "linkWebsite": "https://bumia-stores.netlify.app/",
+            "mockupCreadit" : "https://www.freepik.com/free-psd/digital-device-screen-mockup-psd-with-tablet-laptop-computer-phone_17860353.htm#query=mockup%20tablet%20and%20laptop&position=12&from_view=search&track=ais"
+        },
+        {
+            "title": "Food is love",
+            "imgUrl": "./img/project/foodislove.png",
+            "tech": ["React","JavaScript","Tailwind CSS"],
+            "description": "Indulge your taste buds on our delectable foodie website. Explore a world of culinary delights, from mouthwatering recipes to restaurant reviews and savor every bite with us.",
+            "linkGithub": "https://github.com/palak2002/food-is-love",
+            "linkWebsite": "",
+            "mockupCreadit" : "https://www.freepik.com/free-psd/digital-device-screen-mockup-psd-with-tablet-laptop-computer-phone_17860353.htm#query=mockup%20tablet%20and%20laptop&position=12&from_view=search&track=ais"
+        },
+        {
+            "title": "HooBank",
+            "imgUrl": "./img/project/hoobank.png",
+            "tech": ["React","JavaScript","Tailwind CSS"],
+            "description": "Hoobank application enables it's user to send and receive money electronically. It also allows for quick and easy money transfer to other individuals or businesses in different locations",
+            "linkGithub": "https://github.com/palak2002/bank-HooBank",
+            "linkWebsite": "https://hoobank-payment-app.netlify.app/",
+            "mockupCreadit" : "https://www.freepik.com/free-psd/digital-device-screen-mockup-psd-with-tablet-laptop-computer-phone_17860353.htm#query=mockup%20tablet%20and%20laptop&position=12&from_view=search&track=ais"
+        },
+        {
+            "title": "Threads App Backend",
+            "imgUrl": "./img/project/threads.png",
+            "tech": ["GraphQL","Typescript","Prisma","ExpressJS","Docker-PostgreSQL"],
+            "description": "A scalable GraphQL backend clone of Facebook's Threads app, emphasizing user authentication, thread creation, media management, and interactions, with a focus on scalability and developer experience.",
+            "linkGithub": "https://github.com/palak2002/backend-threads",
+            "linkWebsite": "",
+            "mockupCreadit" : "https://www.freepik.com/free-psd/digital-device-screen-mockup-psd-with-tablet-laptop-computer-phone_17860353.htm#query=mockup%20tablet%20and%20laptop&position=12&from_view=search&track=ais"
+        }
+
+    ]
+}
