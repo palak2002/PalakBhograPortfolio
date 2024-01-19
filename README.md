@@ -16,7 +16,7 @@ This section provides an overview of who you are, your skills, and your backgrou
 Details about your professional experiences, including roles, companies, and a brief description of your contributions.
 
 ## Projects
-A list of projects you've worked on. Each project includes a title, description, technology stack, and links to the GitHub repository and live demo (if applicable).
+A list of projects you've worked on. Each project includes a title, description, technology stack, and links to the GitHub repository and live demo.
 
 ## Tech Stack
 A detailed list of technologies you are proficient in, including programming languages, frameworks, and tools.
